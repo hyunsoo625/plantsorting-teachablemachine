@@ -1,0 +1,2 @@
+0 monocot(외떡잎)
+1 dicot(쌍떡잎)
